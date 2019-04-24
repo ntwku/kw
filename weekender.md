@@ -1,0 +1,37 @@
+---
+title: Weekender
+child_type: item
+routable: true
+process:
+  twig: true
+content:
+    items:
+        - '@self.children'
+    order:
+        by: title
+        dir: asc
+---
+
+<img class="logo" src="{{ theme_url }}/img/logo/weekender.svg">
+
+| Competitor                         | Recent Visits | Page Count |
+| ---------------------------------- | ------------- | -----------|
+| <a target="_blank" href="https://undercanvas.com">undercanvas.com</a>|20200|218| 
+| <a target="_blank" href="https://adventurealan.com">adventurealan.com</a>|22500|303| 
+| <a target="_blank" href="https://locationindie.com">locationindie.com</a>|16700|340| 
+| <a target="_blank" href="https://independenttravelcats.com">independenttravelcats.com</a>|102000|357| 
+| <a target="_blank" href="https://californiabestcamping.com">californiabestcamping.com</a>|60000|756| 
+| <a target="_blank" href="https://nomadasaurus.com">nomadasaurus.com</a>|37400|824| 
+| <a target="_blank" href="https://ordinarytraveler.com">ordinarytraveler.com</a>|51000|902| 
+| <a target="_blank" href="https://viahero.com">viahero.com</a>|108000|903| 
+| <a target="_blank" href="https://californiasbestbeaches.com">californiasbestbeaches.com</a>|49000|1080| 
+| <a target="_blank" href="https://havecamerawilltravel.com">havecamerawilltravel.com</a>|102000|1690| 
+| <a target="_blank" href="https://californiathroughmylens.com">californiathroughmylens.com</a>|331000|2350| 
+| <a target="_blank" href="https://apassionandapassport.com">apassionandapassport.com</a>|40400|2830| 
+| <a target="_blank" href="https://nextlongweekend.com">nextlongweekend.com</a>|19200|20| 
+
+
+| Keyword                                                                  | Monthly Searches | CPC | Comp |
+|--------------------------------------------------------------------------|------------------|-----| -----|
+| website builders for small business                                      | 720 | $32.30 | 0.88  |
+| best ecommerce website builder for small business                        | 260 | $26.42 | 0.83 |
