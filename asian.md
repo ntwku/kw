@@ -1,18 +1,3 @@
----
-title: Asian Wholefoods
-child_type: item
-routable: true
-process:
-  twig: true
-content:
-    items:
-        - '@self.children'
-    order:
-        by: title
-        dir: asc
----
-<img class="logo" src="{{ theme_url }}/img/logo/asianwholefoods.svg">
-
 | Competitor                         | Recent Visits | Page Count |
 | ---------------------------------- | ------------- | -----------|
 | <a target="_blank" href="https://burpee.com">burpee.com</a>|672000|11400| 

@@ -1,19 +1,3 @@
----
-title: Weekender
-child_type: item
-routable: true
-process:
-  twig: true
-content:
-    items:
-        - '@self.children'
-    order:
-        by: title
-        dir: asc
----
-
-<img class="logo" src="{{ theme_url }}/img/logo/weekender.svg">
-
 | Competitor                         | Recent Visits | Page Count |
 | ---------------------------------- | ------------- | -----------|
 | <a target="_blank" href="https://undercanvas.com">undercanvas.com</a>|20200|218| 

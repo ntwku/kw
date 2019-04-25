@@ -1,18 +1,3 @@
----
-title: Photography Accelerator
-child_type: item
-routable: true
-process:
-  twig: true
-content:
-    items:
-        - '@self.children'
-    order:
-        by: title
-        dir: asc
----
-<img class="logo" src="{{ theme_url }}/img/logo/photography.svg">
-
 | Competitor                         | Recent Visits | Page Count | Notes |
 | ---------------------------------- | ------------- | -----------|----------
 | <a target="_blank" href="https://bestdroneforthejob.com">bestdroneforthejob.com</a> | 118000 | 241 |   

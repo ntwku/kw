@@ -1,18 +1,3 @@
----
-title: Website Builders
-process:
-  twig: true
-routable: true
-content:
-    items:
-        - '@self.children'
-    order:
-        by: title
-        dir: asc
----
-
-<img class="logo" src="{{ theme_url }}/img/logo/websitebuilderschool.svg">
-
 | Competitor | Recent Visits | Page Count |
 | -----------| ------------- | -----------|
 | <a target="_blank" href="https://webcreate.io/">WebCreate</a>| 83 | 101 |

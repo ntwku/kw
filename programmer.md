@@ -1,19 +1,3 @@
----
-title: Programmer Path
-child_type: item
-routable: true
-process:
-  twig: true
-content:
-    items:
-        - '@self.children'
-    order:
-        by: title
-        dir: asc
----
-
-<img class="logo" src="{{ theme_url }}/img/logo/programmerpath.svg">
-
 | Competitor                         | Recent Visits | Page Count |
 | ---------------------------------- | ------------- | -----------|
 | <a target="_blank" href="https://codementor.io">codementor.io</a> |93000|78400|

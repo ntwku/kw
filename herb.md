@@ -1,13 +1,3 @@
----
-title: Herb Grow Guide
-child_type: item
-routable: true
-process:
-  twig: true
----
-
-<img class="logo" src="{{ theme_url }}/img/logo/herbgrowguide.png">
-
 | Competitor                         | Recent Visits | Page Count |
 | ---------------------------------- | ------------- | -----------|
 | <a target="_blank" href="https://420bigbud.com">420bigbud.com</a>|69,600|239| 

@@ -1,19 +1,3 @@
----
-title: Goodnight Tea
-child_type: item
-routable: true
-process:
-  twig: true
-content:
-    items:
-        - '@self.children'
-    order:
-        by: title
-        dir: asc
----
-
-<img class="logo" src="{{ theme_url }}/img/logo/goodnight.svg">
-
 | Competitor                         | Recent Visits | Page Count |
 | ---------------------------------- | ------------- | -----------|
 | <a target="_blank" href="https://bigelowtea.com">bigelowtea.com</a>|47600|2250| 

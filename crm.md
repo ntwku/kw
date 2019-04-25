@@ -1,19 +1,3 @@
----
-title: Computer Science Review
-child_type: item
-routable: true
-process:
-  twig: true
-content:
-    items:
-        - '@self.children'
-    order:
-        by: title
-        dir: asc
----
-
-<img class="logo" src="{{ theme_url }}/img/logo/computersciencereview.svg">
-
 | Competitor                         | Recent Visits | Page Count | 
 | ---------------------------------- | ------------- | -----------|
 | <a target="_blank" href="https://computersciencedegreehub.com/">ComputerScienceDegreeHub.com</a> | 36000| 411 |
