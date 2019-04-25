@@ -1,8 +1,8 @@
 | Competitor                         | Recent Visits | Page Count |
 | ---------------------------------- | ------------- | -----------|
-| <a target="_blank" href="https://undercanvas.com">undercanvas.com</a>|20200|218| 
-| <a target="_blank" href="https://adventurealan.com">adventurealan.com</a>|22500|303| 
-| <a target="_blank" href="https://locationindie.com">locationindie.com</a>|16700|340| 
+| <a target="_blank" href="https://codeburst.io">codeburst.io</a>|20200|218| 
+| <a target="_blank" href="https://alligator.io">alligator.io</a>|22500|303| 
+| <a target="_blank" href="https://geeksforgeeks.org">geeksforgeeks.org</a>|16700|340| 
 | <a target="_blank" href="https://independenttravelcats.com">independenttravelcats.com</a>|102000|357| 
 | <a target="_blank" href="https://californiabestcamping.com">californiabestcamping.com</a>|60000|756| 
 | <a target="_blank" href="https://nomadasaurus.com">nomadasaurus.com</a>|37400|824| 
